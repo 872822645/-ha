@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">CeshiG</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="hello_world">这是第二次处理</string>
     <string name="action_settings">Settings</string>
 
 </resources>
